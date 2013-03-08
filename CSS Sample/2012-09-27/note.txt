@@ -1,0 +1,2 @@
+Scenario: Include Firefox CSS code inside the current CSS file.
+
