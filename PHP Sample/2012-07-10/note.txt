@@ -1,0 +1,1 @@
+Scenario: Inside the plugin template you can include the css from plugin; wordpress connection.
