@@ -1,0 +1,1 @@
+Scenario: A basic popup window that loads another web page.
