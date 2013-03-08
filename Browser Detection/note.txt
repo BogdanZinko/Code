@@ -1,0 +1,1 @@
+Scenario: Simple check what kind of the OS enters the website and change content accordingly. 
