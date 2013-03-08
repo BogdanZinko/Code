@@ -1,4 +1,5 @@
 Scenario: I would like that all threaded comments have the same indentation as the first one. 'Wordpress' 
+Note: By default WP does not go pass 5th depth.
 
 .commentlist .children li.comment.depth-2 {
 	margin-left: -55px;
@@ -13,4 +14,3 @@ Scenario: I would like that all threaded comments have the same indentation as t
 	margin-left: -55px;
 }
 
-Note: By default WP does not go pass 5th depth.
