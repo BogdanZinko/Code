@@ -1,0 +1,3 @@
+<ul>
+<?php echorecentPosts(); ?>
+</ul>

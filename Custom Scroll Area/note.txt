@@ -1,0 +1,1 @@
+<strong>Scenario:</strong> Custom scroll for an area on the page.

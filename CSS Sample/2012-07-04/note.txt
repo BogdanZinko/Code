@@ -1,0 +1,1 @@
+Scenario: CSS that make the background image stretch on any size window.
