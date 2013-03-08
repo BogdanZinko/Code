@@ -1,9 +1,11 @@
 Scenario: Include Firefox CSS code inside the current CSS file.
 
 /* Firefox Fixes */
+
 @-moz-document url-prefix() {
 	div#somediv{
 	   // some css elements go here
 	}
 }
+
 /* end Firefox fixes  */
