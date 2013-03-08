@@ -1,0 +1,1 @@
+Scenario: Create a recent post widget/plugin in a wordpress template

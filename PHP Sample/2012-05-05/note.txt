@@ -1,0 +1,1 @@
+Scenario: Inside the wordpress template you can include css file even though the header doesn't exist.

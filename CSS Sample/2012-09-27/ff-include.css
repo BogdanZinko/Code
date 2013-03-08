@@ -1,0 +1,9 @@
+/* Firefox Fixes */
+
+@-moz-document url-prefix() {
+	div#somediv{
+	   // some css elements go here
+	}
+}
+
+/* end Firefox fixes  */
